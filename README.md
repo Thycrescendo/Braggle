@@ -46,9 +46,6 @@ This game features flexibility on the service layer. Toggle the `TheGameServiceT
 ## Media
 
 
-## Media
-
-
 <BR>
   
  
