@@ -96,20 +96,3 @@ This game features flexibility on the service layer. Toggle the `TheGameServiceT
 
 
 ----
-
-## What is Moralis?
-
-**Moralis**
-
-* Moralis provides a single workflow for building high performance dapps. Fully compatible with your favorite web3 tools and services. 
-* See [moralis.io](https://moralis.io) for more info.
-
-**Web3 Unity SDK**
-
-* This SDK brings the power of Moralis to your Unity projects. 
-* See [docs.moralis.io/unity](https://docs.moralis.io/unity) for more info.
-
-**Need Help?**
-
-* Contact us in the Moralis Forum. 
-* See [forum.moralis.io/unity](https://forum.moralis.io/unity) for more info.
