@@ -1,4 +1,4 @@
-# XRPL NFT Marketplace
+# Cardano NFT Marketplace
 
 ## Requirements
 
@@ -10,7 +10,7 @@
 Clone the repo:
 
 ```sh
-$ git clone https://github.com/Thycrescendo/xrpl-navy.git
+$ git clone https://github.com/Thycrescendo/Braggle
 ```
 
 ## Development
